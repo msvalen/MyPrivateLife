@@ -1,5 +1,9 @@
 # MyPrivateLife
 
+This website allow you to post your thoughts anonymously, adding expresivity with a related gif. You will be able to see the reactions and comments to your post and see other anonymous posts.
+
+[![live website](Capture.JPG)](https://my-private-life.netlify.app/)
+
 ### MosCow Priorization
 #### Must have:
   - Emoji feature (Three emogis at least!)
